@@ -1,0 +1,35 @@
+.t{
+font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	color: #58002B;
+}
+
+.p{
+color: #F1A629;
+font-family: 'Montserrat', sans-serif;
+}
+
+img{
+margin:50px;
+width: 400px;
+
+}
+
+.b{
+background-color:#F1A629;
+color:#008DC6;
+border-radius: 70px;
+padding: 10px;
+}
+.l1{
+color: #F1A629;
+list-style: none;
+}
+.corpo{
+	background-color: #ECECEC;
+}
+.box{
+	display: flex;
+	width: 100%;
+
+}
